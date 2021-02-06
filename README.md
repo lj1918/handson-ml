@@ -1,3 +1,5 @@
+https://dl.apachecn.org/#/docs/hands-on-ml-2e-zh/2
+ApacheCN 深度学习译文集
 Machine Learning Notebooks
 ==========================
 
